@@ -1,3 +1,13 @@
+## About This Repository
+
+This repository contains my personal copy of the [Learn Web Security in Go](https://github.com/bootdotdev/learn-web-security-golang-starter) course starter code.
+
+I'm using it to work through the lessons, practise Go development, and keep a record of my code changes and learning progress. This is an independent repository, not a GitHub fork of the original project.
+
+The original source code and any applicable licensing remain attributable to their respective owners.
+
+The comments below are from the original course website when cloned.
+
 # Bearly Secure
 
 Bearly Secure is the intentionally vulnerable starter app for Learn Web Security in Go. It's a tiny plushie shop built with Go, `net/http`, and SQLite.
